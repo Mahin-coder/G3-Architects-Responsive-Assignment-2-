@@ -10,9 +10,22 @@ body{
     max-width: 1600px;
     margin: 0 auto;
 }
+.main_body_container{
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.common_btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 25px;
+    border-radius: 8px;
+    background-color: #ff900e;
+    color: #FFFFFF;
+}
 /*Main Menu Bar Start*/
-header{
+header {
     background-color: #fff4e7;
+    margin-bottom: 85px;
 }
 .header_menu {
     margin-bottom: 110px;
@@ -81,3 +94,63 @@ header{
     margin-bottom: 45px;
 }
 /*Header Main Section End*/
+
+/*Quick List of Feature Section Start*/
+.quick_list_features{
+
+}
+.quick_list_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.content_images {
+    display: flex;
+    flex-wrap: wrap;
+    width: 55%;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+.content_image{
+
+}
+.team_image{
+
+}
+.content_info {
+    width: 537px;
+    height: 305px;
+}
+.content_title{
+
+}
+.list_title {
+    font-size: 45px;
+    font-weight: 700;
+    color: #131313;
+}
+.style_1 {
+    font-weight: 500;
+    color: #727272;
+}
+.style_2{
+    font-weight: 700;
+    color: #FF900E;
+}
+.content_description {
+    margin: 36px 0px;
+}
+.list_description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+}
+.content_button{
+
+}
+.list_btn{
+
+}
+/*Quick List of Feature Section End*/
