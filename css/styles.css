@@ -22,25 +22,16 @@ header{
     justify-content: space-between;
     align-items: center;
 }
-.header_icon{
-
-}
 .header_title {
     font-size: 45px;
     font-weight: 700;
     color: #131313;
     display: inline-block;
 }
-.main_menu{
-
-}
 .primary_menu {
     list-style: none;
     display: flex;
     gap: 70px;
-}
-.primary_menu li{
-
 }
 .primary_menu li a {
     text-decoration: none;
@@ -53,20 +44,11 @@ header{
 /*Main Menu Bar End*/
 
 /*Header Main Section Start*/
-.header_main{
-    
-}
-.header_main_section{
-
-}
 .header_main_info {
     width: 862px;
     margin: 0 auto;
     text-align: center;
     margin-bottom: 45px;
-}
-.header_main_title {
-    
 }
 .primary_title {
     font-size: 64px;
@@ -82,9 +64,6 @@ header{
     font-weight: 400;
     color: #727272;
     line-height: 30px;
-}
-.header_main_button{
-
 }
 .primary_btn {
     display: inline-block;
