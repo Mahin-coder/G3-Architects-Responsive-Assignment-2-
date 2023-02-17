@@ -165,6 +165,7 @@ header {
     justify-content: center;
     align-items: center;
     gap: 54px;
+    margin-bottom: 130px;
 }
 .features_info {
     width: 586px;
@@ -252,5 +253,75 @@ header {
 .sticker_style{
     font-size: 25px;
     font-weight: 500;
+}
+.extra_info {
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+.extra_title_box{
+    width: 258px;
+    height: 53px;
+    margin-bottom: 24px;
+}
+.extra_title {
+    color: #131313;
+    font-size: 45px;
+    font-weight: 700;
+}
+.extra_description_box{
+    width: 542px;
+    height: 52px;
+}
+.extra_description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+    line-height: 26px;
+}
+.achievement_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 124.17px;
+}
+.achievement {
+    width: 241.83px;
+    height: 241.83px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+}
+.achievement_info {
+    width: 169px;
+    height: 136px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 9px;
+}
+.achievement_logo{
+
+}
+.logo{
+
+}
+.achievement_number{
+
+}
+.number {
+    font-size: 45px;
+    font-weight: 600;
+    color: #424242;
+}
+.achievement_name{
+
+}
+.achieve_title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #727272;
 }
 /*Main Features Section Start*/
