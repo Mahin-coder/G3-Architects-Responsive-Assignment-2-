@@ -3,3 +3,102 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.container{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+/*Main Menu Bar Start*/
+header{
+    background-color: #fff4e7;
+}
+.header_menu {
+    margin-bottom: 110px;
+}
+.header_row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_icon{
+
+}
+.header_title {
+    font-size: 45px;
+    font-weight: 700;
+    color: #131313;
+    display: inline-block;
+}
+.main_menu{
+
+}
+.primary_menu {
+    list-style: none;
+    display: flex;
+    gap: 70px;
+}
+.primary_menu li{
+
+}
+.primary_menu li a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500;
+    color: #424242;
+    padding: 60px 0px;
+}
+/*Main Menu Bar End*/
+
+/*Header Main Section Start*/
+.header_main{
+    
+}
+.header_main_section{
+
+}
+.header_main_info {
+    width: 862px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 45px;
+}
+.header_main_title {
+    
+}
+.primary_title {
+    font-size: 64px;
+    font-weight: 700;
+    color: #131313;
+    line-height: 70px;
+}
+.header_main_description {
+    margin: 32px 0;
+}
+.primary_description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+    line-height: 30px;
+}
+.header_main_button{
+
+}
+.primary_btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 25px;
+    border-radius: 8px;
+    background-color: #ff900e;
+    color: #FFFFFF;
+}
+.header_primary_banner {
+    display: flex;
+    justify-content: center;
+}
+.main_banner {
+    margin-bottom: 45px;
+}
+/*Header Main Section End*/
