@@ -113,18 +113,12 @@ header {
     align-items: center;
     gap: 24px;
 }
-.content_image{
-
-}
 .team_image {
     display: block;
 }
 .content_info {
     width: 537px;
     height: 305px;
-}
-.content_title{
-
 }
 .list_title {
     font-size: 45px;
@@ -147,9 +141,6 @@ header {
     font-weight: 400;
     color: #727272;
     line-height: 26px;
-}
-.content_button{
-
 }
 /*Quick List of Feature Section End*/
 
@@ -205,9 +196,6 @@ header {
     font-size: 20px;
     font-weight: 600;
     color: #131313;
-}
-.option_info{
-
 }
 .secondary_info {
     font-size: 16px;
@@ -302,22 +290,10 @@ header {
     align-items: center;
     gap: 9px;
 }
-.achievement_logo{
-
-}
-.logo{
-
-}
-.achievement_number{
-
-}
 .number {
     font-size: 45px;
     font-weight: 600;
     color: #424242;
-}
-.achievement_name{
-
 }
 .achieve_title {
     font-size: 20px;
@@ -329,9 +305,6 @@ header {
 /*Sponsors Section Start*/
 .sponsors_section {
     margin-bottom: 130px;
-}
-.sponsors_content{
-
 }
 .sponsors_info {
     width: 542px;
