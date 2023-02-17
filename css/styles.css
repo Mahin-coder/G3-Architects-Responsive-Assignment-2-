@@ -96,8 +96,8 @@ header {
 /*Header Main Section End*/
 
 /*Quick List of Feature Section Start*/
-.quick_list_features{
-
+.quick_list_features {
+    margin-bottom: 130px;
 }
 .quick_list_content {
     display: flex;
@@ -116,8 +116,8 @@ header {
 .content_image{
 
 }
-.team_image{
-
+.team_image {
+    display: block;
 }
 .content_info {
     width: 537px;
@@ -146,11 +146,111 @@ header {
     font-size: 16px;
     font-weight: 400;
     color: #727272;
+    line-height: 26px;
 }
 .content_button{
 
 }
-.list_btn{
+/*Quick List of Feature Section End*/
+
+/*Main Features Section Start*/
+.main_features{
 
 }
-/*Quick List of Feature Section End*/
+.features_content {
+    width: 1440px;
+    height: 1059px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 54px;
+}
+.features_info {
+    width: 586px;
+    height: 982px;
+}
+.features_heading {
+    padding-left: 21px;
+    border-left: 5px solid #FF900E;
+}
+.features_title {
+    font-size: 45px;
+    font-weight: 700;
+    color: #131313;
+}
+.features_description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+    margin-top: 24px;
+    margin-bottom: 30px;
+    line-height: 26px;
+}
+.features_options {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.options {
+    padding: 30px 35px;
+    box-shadow: 0 0 19px rgb(0 0 0 / 14%);
+    border-radius: 11px;
+}
+.option_name {
+    margin-bottom: 10px;
+}
+.secondary_title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #131313;
+}
+.option_info{
+
+}
+.secondary_info {
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+    line-height: 26px;
+}
+.features_banner {
+    width: 800px;
+    height: 1059px;
+    position: relative;
+}
+.features_image {
+    display: flex;
+    justify-content: flex-end;
+}
+.architect_image {
+    display: block;
+}
+.sticker {
+    width: 342px;
+    height: 200px;
+    background-color: #FF900E;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.sticker_content {
+    width: 258px;
+    text-align: center;
+}
+.sticker_title {
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #fff;
+}
+.sticker_style{
+    font-size: 25px;
+    font-weight: 500;
+}
+/*Main Features Section Start*/
